@@ -854,6 +854,13 @@
     "output": 0.75
   },
   {
+    "model": "gemini-exp-*",
+    "type": "tokens",
+    "channel_type": 25,
+    "input": 0.25,
+    "output": 0.75
+  },
+  {
     "model": "Baichuan-Text-Embedding",
     "type": "tokens",
     "channel_type": 26,
